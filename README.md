@@ -1,21 +1,54 @@
-# 🏆 Software QA Engineering - Final Project (Sprint 10)
+🛵 Urban Scooter QA Project - Final Certification (Cohorte 59)
+👤 Quality Assurance Engineer: Edwin Sánchez
+"Discipline and resilience are the foundations of high-quality software."
 
-## 👤 Candidate: Edwin Sánchez
-**Goal:** Ensure high-quality software standards through rigorous manual testing and data validation.
+📖 Project Overview
+This repository contains the complete testing documentation for the Urban Scooter platform. I managed the end-to-end Quality Assurance process, from requirement analysis to final bug reporting, ensuring a seamless experience for both users and couriers.
 
----
+🛠️ Technical Toolkit
+Methodologies: Black Box Testing, Boundary Value Analysis (BVA), Equivalence Partitioning.
 
-## 📂 Project Overview
-This repository contains the full documentation for my final graduation project. It demonstrates my ability to manage the **Software Testing Life Cycle (STLC)** from requirement analysis to final bug reporting.
+Tools: SQL (PostgreSQL), Postman (API Testing), Draw.io (Mind Maps & Flowcharts), Google Sheets.
 
-### 🛠️ Key Tasks Included:
-* **Task 1 & 2 (Checklists & Artifacts):** Creation of comprehensive checklists for UI/UX and functional requirements.
-* **Data Validation:** Exhaustive testing of data integrity and business logic.
-* **Test Case Design:** Detailed step-by-step execution plans with priority and expected results.
-* **Bug Reporting:** Professional documentation of defects found during the execution phase.
+Documentation: Test Plans, Checklists, and Bug Reports.
 
-## 🚀 Professional Impact
-This project reflects the **discipline and resilience** developed through 500+ hours of technical training and previous high-pressure work environments. I am focused on delivering bug-free software that adds value to the end user.
+📊 Strategic Tasks Executed
+1️⃣ Requirement Analysis & SQL (Task 1)
+Validated business logic through complex SQL queries.
 
----
-📫 **Looking for QA opportunities in the US / Spain.**
+Analyzed project feasibility for automation vs. manual testing.
+
+2️⃣ UI/UX & Data Validation (Task 2)
+Checklists: Designed for "Order Status" and "Main Header" modules.
+
+BVA & Equivalence: Applied to critical input fields (Names, Comments, Dates).
+
+Visual Artifacts: Created Mind Maps and Flowcharts for system logic.
+
+3️⃣ Test Case Design & Execution (Task 3)
+Designed 10+ High-Priority Test Cases for mobile (Android Studio - API 28) and web environments.
+
+Executed cross-browser testing (Chrome vs. Opera) to identify environment-specific blockers.
+
+4️⃣ API Testing (Task 4)
+Validated REST endpoints (GET, POST) for courier and order management.
+
+Verified status codes (200, 201, 400, 404) and JSON response integrity.
+
+🐞 Top Critical Bug Reports
+I identified several Blocker and High-Severity defects that were critical for production:
+
+[PUS-24] - Notification Trigger Failure: Push notifications were not sent to couriers even when conditions were met (Backend issue).
+
+[PUS-22] - [BLOCKER] Button Failure: The "Order" button was non-functional in Google Chrome, preventing any user conversion.
+
+[PUS-25] - Input Validation: Lack of sanitization in the "Login" field, allowing unauthorized special characters.
+
+🎯 Next Steps: Career Acceleration
+Having completed 100% of the Bootcamp, I am now focused on:
+
+Career Acceleration Program.
+
+International QA opportunities (US/Spain).
+
+Continuous learning in Automation (Selenium/Cypress).
