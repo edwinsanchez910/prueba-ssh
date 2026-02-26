@@ -1,4 +1,4 @@
-🛵 Urban Scooter QA Project - Final Certification (Cohorte 59)
+**🛵 Urban Scooter QA Project - Final Certification (Cohorte 59)
 👤 Quality Assurance Engineer: Edwin Sánchez
 "Discipline and resilience are the foundations of high-quality software."
 
